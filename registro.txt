@@ -1,0 +1,8 @@
+=============================
+nombre: jose 
+apellido: cardona
+direccion: echanca
+telefono: 23434
+departamento: filom
+municipio: cujul
+=============================
